@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: #EEEEBB;
+}
+
+h1 {
+    margin-top: 300px;
+    text-align: center;
+    color: #b91c1c;
+    font-size: 50px;
+    animation: 5s slideIn ease-in-out forwards 1s;
+    transition: all 1s ease-in-out;
+    -webkit-transition: all 1s ease-in-out;
+    -moz-transition: all 1s ease-in-out;
+    -ms-transition: all 1s ease-in-out;
+    -o-transition: all 1s ease-in-out;
+    -webkit-animation: 5s slideIn ease-in-out forwards 1s;
+}
+
+  
